@@ -118,7 +118,3 @@ Open Ecommerce code file.ipynb in Jupyter/Colab
 * Use real-world dataset instead of synthetic data
 
 ---
-
-
-
-Just tell 👍
